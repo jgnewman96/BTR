@@ -34,6 +34,13 @@ Last day to register to vote is July 25, 2020 ([form here](https://www.sos.la.go
 
 Residents of East Baton Rouge Parish
 
+**Geographic distribution of votes**
+
+[Source - EBR GIS](https://ebrgis.maps.arcgis.com/home/item.html?id=bffcd9c0aeea40f9853993c6dc4956c0)
+
+![Election Results for Baton Rouge City Court Division C Primary - July 11, 2020](/static/static/election_results_judicial_court_divc_20200711.png)
+
+![Election Results for Presidential General Election - November 8, 2016](/static/static/election_results_president_20161108.png)
 
 **Sources/More reading**
 
