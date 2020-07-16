@@ -38,12 +38,13 @@ Residents of East Baton Rouge Parish
 
 [Source - EBR GIS](https://ebrgis.maps.arcgis.com/home/item.html?id=bffcd9c0aeea40f9853993c6dc4956c0)
 
-![Election Results for Baton Rouge City Court Division C Primary - July 11, 2020](/static/static/election_results_judicial_court_divc_20200711.png)
+![Election Results for Baton Rouge City Court Division C Primary - July 11, 2020](/img/election_results_judicial_court_divc_20200711.png)
 
-![Election Results for Presidential General Election - November 8, 2016](/static/static/election_results_president_20161108.png)
+![Election Results for Presidential General Election - November 8, 2016](/img/election_results_president_20161108.png)
 
 **Sources/More reading**
 
 1. [Matthews, Greene advance to runoff in Baton Rouge City Court election - The Advocate](https://www.theadvocate.com/baton_rouge/news/politics/elections/article_f3855792-c144-11ea-8122-3bb43c0a73c9.html)
 2. [Important dates for Baton Rouge elections - BR Votes](https://www.brvotes.org/important-dates/)
+3. [Election results - State and Parish Races - WAFB](https://www.wafb.com/politics/election-results/)
 
